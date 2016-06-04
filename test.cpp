@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <iostream>
 using namespace std;
 int get_length(int * a){
 	int i=0;
@@ -18,7 +19,7 @@ for(it=v.begin();it!=v.end();it++)
 {
 	cout<<*it;
 }
-	cout<<"hello world"<<endl;
+	cout<<"hello world test two"<<endl;
 	//中文的思想
 	int a[10];
 	cout<<a[0]<<endl;
